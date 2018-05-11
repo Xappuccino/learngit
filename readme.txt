@@ -9,3 +9,4 @@ Creating a new branch is quick AND simple.
 add develop
 &develop
 pull to refresh
+local master
